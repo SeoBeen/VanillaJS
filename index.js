@@ -39,6 +39,5 @@ console.log(beenInfo.gender);
 beenInfo.gender = "Female";
 console.log(beenInfo.gender);
 console.log(beenInfo);
-
 */
 function sayHello() {}
